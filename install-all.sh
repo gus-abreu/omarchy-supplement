@@ -12,5 +12,6 @@
 ./install-dotfiles.sh
 ./install-hyprland-overrides.sh
 ./install-calibre.sh
+./install-zed.sh
 
 ./set-shell.sh
