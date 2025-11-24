@@ -13,5 +13,6 @@
 ./install-hyprland-overrides.sh
 ./install-calibre.sh
 ./install-zed.sh
+./install-keychain.sh
 
 ./set-shell.sh
